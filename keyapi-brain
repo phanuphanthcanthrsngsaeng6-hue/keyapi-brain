@@ -1,9 +1,0 @@
-app.py
-static/          ← โฟลเดอร์ (ลากทั้งโฟลเดอร์)
-requirements.txt
-Procfile
-render.yaml
-Dockerfile
-.env.example
-.gitignore
-README-DEPLOY.md
